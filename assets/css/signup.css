@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url("../images/bg-signup.png");
+  background: black;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed
@@ -22,10 +22,10 @@ body {
 }
 
 .card {
-  background-color: #ffffff80;
+  background-color: #00bb00;
   padding: 30px;
   border-radius: 4%;
-  box-shadow: 3px 3px 1px 0px #00000060;
+  box-shadow: 4px 4px 1px 0px #00000060;
   width: 400px;
 }
 
