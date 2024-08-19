@@ -22,7 +22,7 @@ button{
     h2{
         margin-top: 6rem;
         text-align: center;
-        color: blue;
+        color:red;
       display: flex;
     }
 
@@ -35,6 +35,7 @@ button{
         align-items: center;
         flex-wrap: wrap;
         min-height: 100vh;
+        background: greenyellow;
     }
     
     .card{
